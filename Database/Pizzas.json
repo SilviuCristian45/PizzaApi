@@ -1,0 +1,41 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "type": "Margherita",
+      "popularityRating": 9,
+      "toppings": [
+        "mozzarella cheese",
+        "tomato sauce",
+        "fresh basil"
+      ],
+      "price": 9.99,
+      "description": "A classic pizza with a thin crust, topped with mozzarella cheese, tomato sauce, and fresh basil leaves."
+    },
+    {
+      "id": 2,
+      "type": "Pepperoni",
+      "popularityRating": 8,
+      "toppings": [
+        "mozzarella cheese",
+        "tomato sauce",
+        "pepperoni"
+      ],
+      "price": 10.99,
+      "description": "A popular pizza choice featuring a combination of mozzarella cheese, tomato sauce, and slices of spicy pepperoni."
+    },
+    {
+      "id": 3,
+      "type": "Hawaiian",
+      "popularityRating": 7,
+      "toppings": [
+        "mozzarella cheese",
+        "tomato sauce",
+        "ham",
+        "pineapple"
+      ],
+      "price": 11.99,
+      "description": "A controversial pizza with a tropical twist, topped with mozzarella cheese, tomato sauce, ham, and pineapple."
+    }
+  ]
+}
